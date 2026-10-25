@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AR SAVE</string>
+    <string name="app_tagline">Standalone Video &amp; Audio Downloader</string>
+    <string name="credit_author">Project by A. Kareem</string>
+    <string name="credit_org">AR INSTITUTE OF COMPUTER AND TECHNOLOGY</string>
+    <string name="app_description">A locally processed Android media downloader powered by yt-dlp.</string>
+</resources>
